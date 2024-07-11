@@ -1,0 +1,2 @@
+dataset/screw-bolt-detection.zip filter=lfs diff=lfs merge=lfs -text
+dataset/screw-classification.zip filter=lfs diff=lfs merge=lfs -text
